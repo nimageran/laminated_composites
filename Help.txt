@@ -1,0 +1,16 @@
+--------------
+
+An open-source computational framework for optimization of laminated composite plates
+
+Kaveh, A., A. Dadras Eslamlou, N. Geran Malek, and R. Ansari. "An open-source computational framework for optimization of laminated composite plates." Acta Mechanica 231, no. 6 (2020): 2629-2650.
+
+
+--------------
+Instruction:
+
+*For running the algorithm, one should first create a file in the following directory:
+D:\optLaminatedComp
+Then, copy and paste the containing files in the algorithm folder into this directory.
+
+*The current algorithm ought to runs the first load case of Section 4 (Table 2)
+
